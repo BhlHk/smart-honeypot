@@ -9,6 +9,7 @@ This repository contains the dataset, trained model, and SHAP explainability plo
 
 ## Dataset Download
 [📥 Download Dataset (CSV)](https://github.com/BhlHk/smart-honeypot/raw/main/data/smart_honeypot_dataset.csv)
+→ Right-click → "Save As"
 
 ## 🚀 How to Use
 1. Load the dataset from `data/smart_honeypot_dataset.csv`
