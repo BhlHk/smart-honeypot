@@ -7,6 +7,9 @@ This repository contains the dataset, trained model, and SHAP explainability plo
 - `models/`: Trained Random Forest model (`.pkl`) and feature scaler
 - `shap_plots/`: SHAP explainability plots
 
+## Dataset Download
+[📥 Download Dataset (CSV)](https://github.com/BhlHk/smart-honeypot/raw/main/data/smart_honeypot_dataset.csv)
+
 ## 🚀 How to Use
 1. Load the dataset from `data/smart_honeypot_dataset.csv`
 2. Use `models/rf_best_model.pkl` and `scaler_best_model.pkl` to make predictions
